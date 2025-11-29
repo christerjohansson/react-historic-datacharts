@@ -1,0 +1,1502 @@
+[
+    {
+        "symbol": "ABBV",
+        "year": 2022,
+        "averagePrice": 147.5243823291,
+        "closingPrice": 147.4299926758
+    },
+    {
+        "symbol": "ABBV",
+        "year": 2021,
+        "averagePrice": 132.5458477262,
+        "closingPrice": 132.9272918701
+    },
+    {
+        "symbol": "ABBV",
+        "year": 2020,
+        "averagePrice": 97.6484902674,
+        "closingPrice": 100.7113113403
+    },
+    {
+        "symbol": "ABBV",
+        "year": 2019,
+        "averagePrice": 75.7273358349,
+        "closingPrice": 75.7547149658
+    },
+    {
+        "symbol": "ABBV",
+        "year": 2018,
+        "averagePrice": 64.1450843963,
+        "closingPrice": 62.1699676514
+    },
+    {
+        "symbol": "ABM",
+        "year": 2022,
+        "averagePrice": 43.8386857234,
+        "closingPrice": 39.3699989319
+    },
+    {
+        "symbol": "ABM",
+        "year": 2021,
+        "averagePrice": 43.4651638667,
+        "closingPrice": 38.5483665466
+    },
+    {
+        "symbol": "ABM",
+        "year": 2020,
+        "averagePrice": 42.725310641,
+        "closingPrice": 45.2295265198
+    },
+    {
+        "symbol": "ABM",
+        "year": 2019,
+        "averagePrice": 33.0671418407,
+        "closingPrice": 34.8975448608
+    },
+    {
+        "symbol": "ABM",
+        "year": 2018,
+        "averagePrice": 32.7321202328,
+        "closingPrice": 32.3424377441
+    },
+    {
+        "symbol": "ABT",
+        "year": 2022,
+        "averagePrice": 104.330254209,
+        "closingPrice": 95.7900009155
+    },
+    {
+        "symbol": "ABT",
+        "year": 2021,
+        "averagePrice": 114.925411073,
+        "closingPrice": 97.6475143433
+    },
+    {
+        "symbol": "ABT",
+        "year": 2020,
+        "averagePrice": 112.0515524876,
+        "closingPrice": 113.2033157349
+    },
+    {
+        "symbol": "ABT",
+        "year": 2019,
+        "averagePrice": 85.2133821738,
+        "closingPrice": 101.3470001221
+    },
+    {
+        "symbol": "ABT",
+        "year": 2018,
+        "averagePrice": 71.9191790273,
+        "closingPrice": 76.7602157593
+    },
+    {
+        "symbol": "ADM",
+        "year": 2022,
+        "averagePrice": 81.7358690543,
+        "closingPrice": 73.8099975586
+    },
+    {
+        "symbol": "ADM",
+        "year": 2021,
+        "averagePrice": 75.7791318439,
+        "closingPrice": 81.3080978394
+    },
+    {
+        "symbol": "ADM",
+        "year": 2020,
+        "averagePrice": 54.1256527084,
+        "closingPrice": 58.3547325134
+    },
+    {
+        "symbol": "ADM",
+        "year": 2019,
+        "averagePrice": 37.944919381,
+        "closingPrice": 43.7274665833
+    },
+    {
+        "symbol": "ADM",
+        "year": 2018,
+        "averagePrice": 37.7134701702,
+        "closingPrice": 36.4785270691
+    },
+    {
+        "symbol": "AWR",
+        "year": 2022,
+        "averagePrice": 88.4104298139,
+        "closingPrice": 76.3899993896
+    },
+    {
+        "symbol": "AWR",
+        "year": 2021,
+        "averagePrice": 84.8686356923,
+        "closingPrice": 80.521156311
+    },
+    {
+        "symbol": "AWR",
+        "year": 2020,
+        "averagePrice": 76.9678764799,
+        "closingPrice": 82.6118927002
+    },
+    {
+        "symbol": "AWR",
+        "year": 2019,
+        "averagePrice": 77.7261231259,
+        "closingPrice": 72.8208847046
+    },
+    {
+        "symbol": "AWR",
+        "year": 2018,
+        "averagePrice": 67.5307176902,
+        "closingPrice": 84.8462905884
+    },
+    {
+        "symbol": "BDX",
+        "year": 2022,
+        "averagePrice": 249.4243376227,
+        "closingPrice": 258.8999938965
+    },
+    {
+        "symbol": "BDX",
+        "year": 2021,
+        "averagePrice": 244.3890092638,
+        "closingPrice": 227.4332885742
+    },
+    {
+        "symbol": "BDX",
+        "year": 2020,
+        "averagePrice": 232.2948385292,
+        "closingPrice": 232.0803222656
+    },
+    {
+        "symbol": "BDX",
+        "year": 2019,
+        "averagePrice": 233.8671382585,
+        "closingPrice": 217.7127075195
+    },
+    {
+        "symbol": "BDX",
+        "year": 2018,
+        "averagePrice": 222.7363241735,
+        "closingPrice": 233.791015625
+    },
+    {
+        "symbol": "BKH",
+        "year": 2022,
+        "averagePrice": 61.8456229404,
+        "closingPrice": 48.0200004578
+    },
+    {
+        "symbol": "BKH",
+        "year": 2021,
+        "averagePrice": 67.653257476,
+        "closingPrice": 66.8284454346
+    },
+    {
+        "symbol": "BKH",
+        "year": 2020,
+        "averagePrice": 59.1109486614,
+        "closingPrice": 58.6792373657
+    },
+    {
+        "symbol": "BKH",
+        "year": 2019,
+        "averagePrice": 59.3369589878,
+        "closingPrice": 49.6843986511
+    },
+    {
+        "symbol": "BKH",
+        "year": 2018,
+        "averagePrice": 61.4151245816,
+        "closingPrice": 66.677734375
+    },
+    {
+        "symbol": "CBSH",
+        "year": 2022,
+        "averagePrice": 58.10670111,
+        "closingPrice": 46.25
+    },
+    {
+        "symbol": "CBSH",
+        "year": 2021,
+        "averagePrice": 67.3866208394,
+        "closingPrice": 66.5979385376
+    },
+    {
+        "symbol": "CBSH",
+        "year": 2020,
+        "averagePrice": 64.6309585571,
+        "closingPrice": 65.2737045288
+    },
+    {
+        "symbol": "CBSH",
+        "year": 2019,
+        "averagePrice": 52.3032446478,
+        "closingPrice": 49.1416778564
+    },
+    {
+        "symbol": "CBSH",
+        "year": 2018,
+        "averagePrice": 50.1046415838,
+        "closingPrice": 50.1034240723
+    },
+    {
+        "symbol": "CDUAF",
+        "year": 2022,
+        "averagePrice": 25.6544484218,
+        "closingPrice": 20.75
+    },
+    {
+        "symbol": "CDUAF",
+        "year": 2021,
+        "averagePrice": 27.4144544374,
+        "closingPrice": 25.7287044525
+    },
+    {
+        "symbol": "CDUAF",
+        "year": 2020,
+        "averagePrice": 23.6509228437,
+        "closingPrice": 24.5870990753
+    },
+    {
+        "symbol": "CDUAF",
+        "year": 2019,
+        "averagePrice": 22.3987161591,
+        "closingPrice": 20.7529659271
+    },
+    {
+        "symbol": "CDUAF",
+        "year": 2018,
+        "averagePrice": 21.2855205384,
+        "closingPrice": 24.1438560486
+    },
+    {
+        "symbol": "CINF",
+        "year": 2022,
+        "averagePrice": 104.4246560815,
+        "closingPrice": 99.7799987793
+    },
+    {
+        "symbol": "CINF",
+        "year": 2021,
+        "averagePrice": 112.7069800846,
+        "closingPrice": 90.6870422363
+    },
+    {
+        "symbol": "CINF",
+        "year": 2020,
+        "averagePrice": 96.4318933677,
+        "closingPrice": 109.0249176025
+    },
+    {
+        "symbol": "CINF",
+        "year": 2019,
+        "averagePrice": 79.6262445184,
+        "closingPrice": 72.1265106201
+    },
+    {
+        "symbol": "CINF",
+        "year": 2018,
+        "averagePrice": 82.0660784748,
+        "closingPrice": 105.6077423096
+    },
+    {
+        "symbol": "CL",
+        "year": 2022,
+        "averagePrice": 74.5621848239,
+        "closingPrice": 70.4700012207
+    },
+    {
+        "symbol": "CL",
+        "year": 2021,
+        "averagePrice": 75.7250519102,
+        "closingPrice": 69.3187255859
+    },
+    {
+        "symbol": "CL",
+        "year": 2020,
+        "averagePrice": 76.0361369768,
+        "closingPrice": 71.9734649658
+    },
+    {
+        "symbol": "CL",
+        "year": 2019,
+        "averagePrice": 66.0216927243,
+        "closingPrice": 72.0988006592
+    },
+    {
+        "symbol": "CL",
+        "year": 2018,
+        "averagePrice": 61.0568472266,
+        "closingPrice": 65.521484375
+    },
+    {
+        "symbol": "CWT",
+        "year": 2022,
+        "averagePrice": 55.9487342075,
+        "closingPrice": 46.4300003052
+    },
+    {
+        "symbol": "CWT",
+        "year": 2021,
+        "averagePrice": 57.7436311358,
+        "closingPrice": 54.2431182861
+    },
+    {
+        "symbol": "CWT",
+        "year": 2020,
+        "averagePrice": 53.7844774163,
+        "closingPrice": 56.7649841309
+    },
+    {
+        "symbol": "CWT",
+        "year": 2019,
+        "averagePrice": 46.5081957327,
+        "closingPrice": 42.6625595093
+    },
+    {
+        "symbol": "CWT",
+        "year": 2018,
+        "averagePrice": 46.1972268853,
+        "closingPrice": 49.1669807434
+    },
+    {
+        "symbol": "DOV",
+        "year": 2022,
+        "averagePrice": 140.7273051349,
+        "closingPrice": 137.7799987793
+    },
+    {
+        "symbol": "DOV",
+        "year": 2021,
+        "averagePrice": 145.68360035,
+        "closingPrice": 118.3947525024
+    },
+    {
+        "symbol": "DOV",
+        "year": 2020,
+        "averagePrice": 135.5029785339,
+        "closingPrice": 152.5329742432
+    },
+    {
+        "symbol": "DOV",
+        "year": 2019,
+        "averagePrice": 98.0864229696,
+        "closingPrice": 105.4976119995
+    },
+    {
+        "symbol": "DOV",
+        "year": 2018,
+        "averagePrice": 83.9364672353,
+        "closingPrice": 89.4098587036
+    },
+    {
+        "symbol": "EMR",
+        "year": 2022,
+        "averagePrice": 88.3207614792,
+        "closingPrice": 94.8499984741
+    },
+    {
+        "symbol": "EMR",
+        "year": 2021,
+        "averagePrice": 86.8126607622,
+        "closingPrice": 73.7878341675
+    },
+    {
+        "symbol": "EMR",
+        "year": 2020,
+        "averagePrice": 83.9630646573,
+        "closingPrice": 90.8703613281
+    },
+    {
+        "symbol": "EMR",
+        "year": 2019,
+        "averagePrice": 59.9036464919,
+        "closingPrice": 61.162612915
+    },
+    {
+        "symbol": "EMR",
+        "year": 2018,
+        "averagePrice": 58.4283067772,
+        "closingPrice": 59.0296554565
+    },
+    {
+        "symbol": "FMCB",
+        "year": 2022,
+        "averagePrice": 976.6567961552,
+        "closingPrice": 955.0
+    },
+    {
+        "symbol": "FMCB",
+        "year": 2021,
+        "averagePrice": 923.2069566515,
+        "closingPrice": 939.907043457
+    },
+    {
+        "symbol": "FMCB",
+        "year": 2020,
+        "averagePrice": 776.3736331529,
+        "closingPrice": 867.0477905273
+    },
+    {
+        "symbol": "FMCB",
+        "year": 2019,
+        "averagePrice": 693.102448604,
+        "closingPrice": 688.0588378906
+    },
+    {
+        "symbol": "FMCB",
+        "year": 2018,
+        "averagePrice": 695.3707068698,
+        "closingPrice": 726.1486206055
+    },
+    {
+        "symbol": "FRT",
+        "year": 2022,
+        "averagePrice": 96.9370536652,
+        "closingPrice": 86.6699981689
+    },
+    {
+        "symbol": "FRT",
+        "year": 2021,
+        "averagePrice": 107.9943092588,
+        "closingPrice": 87.1706237793
+    },
+    {
+        "symbol": "FRT",
+        "year": 2020,
+        "averagePrice": 92.9950827336,
+        "closingPrice": 111.3308944702
+    },
+    {
+        "symbol": "FRT",
+        "year": 2019,
+        "averagePrice": 86.7140597917,
+        "closingPrice": 69.286239624
+    },
+    {
+        "symbol": "FRT",
+        "year": 2018,
+        "averagePrice": 108.4075719218,
+        "closingPrice": 114.9877166748
+    },
+    {
+        "symbol": "FUL",
+        "year": 2022,
+        "averagePrice": 69.2700976338,
+        "closingPrice": 68.2699966431
+    },
+    {
+        "symbol": "FUL",
+        "year": 2021,
+        "averagePrice": 67.632454085,
+        "closingPrice": 62.9971618652
+    },
+    {
+        "symbol": "FUL",
+        "year": 2020,
+        "averagePrice": 58.4044129269,
+        "closingPrice": 63.8105773926
+    },
+    {
+        "symbol": "FUL",
+        "year": 2019,
+        "averagePrice": 42.0463213218,
+        "closingPrice": 44.6741638184
+    },
+    {
+        "symbol": "FUL",
+        "year": 2018,
+        "averagePrice": 43.6948754816,
+        "closingPrice": 44.3163223267
+    },
+    {
+        "symbol": "GPC",
+        "year": 2022,
+        "averagePrice": 163.0306603177,
+        "closingPrice": 140.5700073242
+    },
+    {
+        "symbol": "GPC",
+        "year": 2021,
+        "averagePrice": 131.7843038468,
+        "closingPrice": 149.4084777832
+    },
+    {
+        "symbol": "GPC",
+        "year": 2020,
+        "averagePrice": 106.9794697249,
+        "closingPrice": 115.9726333618
+    },
+    {
+        "symbol": "GPC",
+        "year": 2019,
+        "averagePrice": 82.6515168422,
+        "closingPrice": 88.6855773926
+    },
+    {
+        "symbol": "GPC",
+        "year": 2018,
+        "averagePrice": 88.3731124696,
+        "closingPrice": 85.8734512329
+    },
+    {
+        "symbol": "GRC",
+        "year": 2022,
+        "averagePrice": 27.0819238837,
+        "closingPrice": 31.6200008392
+    },
+    {
+        "symbol": "GRC",
+        "year": 2021,
+        "averagePrice": 33.6290115023,
+        "closingPrice": 23.9927501678
+    },
+    {
+        "symbol": "GRC",
+        "year": 2020,
+        "averagePrice": 32.3807051837,
+        "closingPrice": 35.0779037476
+    },
+    {
+        "symbol": "GRC",
+        "year": 2019,
+        "averagePrice": 30.4660631233,
+        "closingPrice": 29.021270752
+    },
+    {
+        "symbol": "GRC",
+        "year": 2018,
+        "averagePrice": 29.8119012825,
+        "closingPrice": 31.2914237976
+    },
+    {
+        "symbol": "GWW",
+        "year": 2022,
+        "averagePrice": 651.1264918354,
+        "closingPrice": 687.0300292969
+    },
+    {
+        "symbol": "GWW",
+        "year": 2021,
+        "averagePrice": 486.083390251,
+        "closingPrice": 501.313293457
+    },
+    {
+        "symbol": "GWW",
+        "year": 2020,
+        "averagePrice": 401.5628590375,
+        "closingPrice": 388.6227722168
+    },
+    {
+        "symbol": "GWW",
+        "year": 2019,
+        "averagePrice": 297.8303972221,
+        "closingPrice": 345.3432312012
+    },
+    {
+        "symbol": "GWW",
+        "year": 2018,
+        "averagePrice": 268.2571515695,
+        "closingPrice": 274.6415100098
+    },
+    {
+        "symbol": "HRL",
+        "year": 2022,
+        "averagePrice": 41.7906893392,
+        "closingPrice": 37.7000007629
+    },
+    {
+        "symbol": "HRL",
+        "year": 2021,
+        "averagePrice": 46.1762503215,
+        "closingPrice": 45.0407676697
+    },
+    {
+        "symbol": "HRL",
+        "year": 2020,
+        "averagePrice": 44.6293730565,
+        "closingPrice": 39.0233268738
+    },
+    {
+        "symbol": "HRL",
+        "year": 2019,
+        "averagePrice": 43.3395692286,
+        "closingPrice": 45.8399391174
+    },
+    {
+        "symbol": "HRL",
+        "year": 2018,
+        "averagePrice": 38.3255677242,
+        "closingPrice": 40.0803871155
+    },
+    {
+        "symbol": "ITW",
+        "year": 2022,
+        "averagePrice": 228.1487204867,
+        "closingPrice": 230.4100036621
+    },
+    {
+        "symbol": "ITW",
+        "year": 2021,
+        "averagePrice": 205.2003873189,
+        "closingPrice": 182.7386932373
+    },
+    {
+        "symbol": "ITW",
+        "year": 2020,
+        "averagePrice": 204.2200890043,
+        "closingPrice": 197.3728942871
+    },
+    {
+        "symbol": "ITW",
+        "year": 2019,
+        "averagePrice": 159.7927633643,
+        "closingPrice": 179.1396331787
+    },
+    {
+        "symbol": "ITW",
+        "year": 2018,
+        "averagePrice": 128.4118736237,
+        "closingPrice": 137.8792572021
+    },
+    {
+        "symbol": "JNJ",
+        "year": 2022,
+        "averagePrice": 162.65645341,
+        "closingPrice": 155.3399963379
+    },
+    {
+        "symbol": "JNJ",
+        "year": 2021,
+        "averagePrice": 163.3373185415,
+        "closingPrice": 158.6380310059
+    },
+    {
+        "symbol": "JNJ",
+        "year": 2020,
+        "averagePrice": 151.0878352131,
+        "closingPrice": 151.9765625
+    },
+    {
+        "symbol": "JNJ",
+        "year": 2019,
+        "averagePrice": 130.30606225,
+        "closingPrice": 135.0416412354
+    },
+    {
+        "symbol": "JNJ",
+        "year": 2018,
+        "averagePrice": 120.3194172164,
+        "closingPrice": 120.160774231
+    },
+    {
+        "symbol": "KMB",
+        "year": 2022,
+        "averagePrice": 128.6751117782,
+        "closingPrice": 120.5500030518
+    },
+    {
+        "symbol": "KMB",
+        "year": 2021,
+        "averagePrice": 124.7983101436,
+        "closingPrice": 110.0193786621
+    },
+    {
+        "symbol": "KMB",
+        "year": 2020,
+        "averagePrice": 123.8216876452,
+        "closingPrice": 123.0427017212
+    },
+    {
+        "symbol": "KMB",
+        "year": 2019,
+        "averagePrice": 124.6080922587,
+        "closingPrice": 132.7324981689
+    },
+    {
+        "symbol": "KMB",
+        "year": 2018,
+        "averagePrice": 106.6583555001,
+        "closingPrice": 123.8143615723
+    },
+    {
+        "symbol": "KO",
+        "year": 2022,
+        "averagePrice": 59.7048600641,
+        "closingPrice": 54.8800010681
+    },
+    {
+        "symbol": "KO",
+        "year": 2021,
+        "averagePrice": 57.7588438912,
+        "closingPrice": 54.9648666382
+    },
+    {
+        "symbol": "KO",
+        "year": 2020,
+        "averagePrice": 49.1804974317,
+        "closingPrice": 49.93176651
+    },
+    {
+        "symbol": "KO",
+        "year": 2019,
+        "averagePrice": 45.1379458971,
+        "closingPrice": 45.0603981018
+    },
+    {
+        "symbol": "KO",
+        "year": 2018,
+        "averagePrice": 42.9567598746,
+        "closingPrice": 48.1594734192
+    },
+    {
+        "symbol": "LANC",
+        "year": 2022,
+        "averagePrice": 189.7007144153,
+        "closingPrice": 162.5800018311
+    },
+    {
+        "symbol": "LANC",
+        "year": 2021,
+        "averagePrice": 147.6882656037,
+        "closingPrice": 152.1739044189
+    },
+    {
+        "symbol": "LANC",
+        "year": 2020,
+        "averagePrice": 172.8945857196,
+        "closingPrice": 163.1874694824
+    },
+    {
+        "symbol": "LANC",
+        "year": 2019,
+        "averagePrice": 144.5780066684,
+        "closingPrice": 167.0719909668
+    },
+    {
+        "symbol": "LANC",
+        "year": 2018,
+        "averagePrice": 144.6453882347,
+        "closingPrice": 126.8215408325
+    },
+    {
+        "symbol": "LEG",
+        "year": 2022,
+        "averagePrice": 30.5065398957,
+        "closingPrice": 24.5499992371
+    },
+    {
+        "symbol": "LEG",
+        "year": 2021,
+        "averagePrice": 35.8163103982,
+        "closingPrice": 32.0602836609
+    },
+    {
+        "symbol": "LEG",
+        "year": 2020,
+        "averagePrice": 41.4566404183,
+        "closingPrice": 40.951713562
+    },
+    {
+        "symbol": "LEG",
+        "year": 2019,
+        "averagePrice": 34.2547478695,
+        "closingPrice": 37.0778694153
+    },
+    {
+        "symbol": "LEG",
+        "year": 2018,
+        "averagePrice": 32.3427369547,
+        "closingPrice": 32.9637413025
+    },
+    {
+        "symbol": "LOW",
+        "year": 2022,
+        "averagePrice": 207.3570329279,
+        "closingPrice": 200.1600036621
+    },
+    {
+        "symbol": "LOW",
+        "year": 2021,
+        "averagePrice": 207.8473469568,
+        "closingPrice": 190.0313568115
+    },
+    {
+        "symbol": "LOW",
+        "year": 2020,
+        "averagePrice": 174.922759949,
+        "closingPrice": 196.3266296387
+    },
+    {
+        "symbol": "LOW",
+        "year": 2019,
+        "averagePrice": 116.7380911383,
+        "closingPrice": 158.2262115479
+    },
+    {
+        "symbol": "LOW",
+        "year": 2018,
+        "averagePrice": 94.1319797409,
+        "closingPrice": 100.1615371704
+    },
+    {
+        "symbol": "MMM",
+        "year": 2022,
+        "averagePrice": 106.3901942888,
+        "closingPrice": 88.7900009155
+    },
+    {
+        "symbol": "MMM",
+        "year": 2021,
+        "averagePrice": 141.8034864153,
+        "closingPrice": 107.1904830933
+    },
+    {
+        "symbol": "MMM",
+        "year": 2020,
+        "averagePrice": 166.8040803096,
+        "closingPrice": 161.0354156494
+    },
+    {
+        "symbol": "MMM",
+        "year": 2019,
+        "averagePrice": 137.9788533853,
+        "closingPrice": 141.5918426514
+    },
+    {
+        "symbol": "MMM",
+        "year": 2018,
+        "averagePrice": 156.2176862618,
+        "closingPrice": 132.6432495117
+    },
+    {
+        "symbol": "MO",
+        "year": 2022,
+        "averagePrice": 42.9807524054,
+        "closingPrice": 41.1300010681
+    },
+    {
+        "symbol": "MO",
+        "year": 2021,
+        "averagePrice": 42.071539122,
+        "closingPrice": 38.0221595764
+    },
+    {
+        "symbol": "MO",
+        "year": 2020,
+        "averagePrice": 37.3045581878,
+        "closingPrice": 39.0071105957
+    },
+    {
+        "symbol": "MO",
+        "year": 2019,
+        "averagePrice": 32.3456623336,
+        "closingPrice": 30.812997818
+    },
+    {
+        "symbol": "MO",
+        "year": 2018,
+        "averagePrice": 35.9485560945,
+        "closingPrice": 30.2454471588
+    },
+    {
+        "symbol": "MSA",
+        "year": 2022,
+        "averagePrice": 144.6043177145,
+        "closingPrice": 155.0500030518
+    },
+    {
+        "symbol": "MSA",
+        "year": 2021,
+        "averagePrice": 131.152103091,
+        "closingPrice": 112.0290222168
+    },
+    {
+        "symbol": "MSA",
+        "year": 2020,
+        "averagePrice": 151.8727377173,
+        "closingPrice": 144.3653259277
+    },
+    {
+        "symbol": "MSA",
+        "year": 2019,
+        "averagePrice": 115.1504345168,
+        "closingPrice": 131.8622131348
+    },
+    {
+        "symbol": "MSA",
+        "year": 2018,
+        "averagePrice": 97.5688406348,
+        "closingPrice": 102.817527771
+    },
+    {
+        "symbol": "MSEX",
+        "year": 2022,
+        "averagePrice": 79.935423984,
+        "closingPrice": 64.2900009155
+    },
+    {
+        "symbol": "MSEX",
+        "year": 2021,
+        "averagePrice": 94.6663685148,
+        "closingPrice": 80.251914978
+    },
+    {
+        "symbol": "MSEX",
+        "year": 2020,
+        "averagePrice": 79.9714175828,
+        "closingPrice": 98.9541015625
+    },
+    {
+        "symbol": "MSEX",
+        "year": 2019,
+        "averagePrice": 60.5339239812,
+        "closingPrice": 60.3390731812
+    },
+    {
+        "symbol": "MSEX",
+        "year": 2018,
+        "averagePrice": 52.7961958775,
+        "closingPrice": 60.8836631775
+    },
+    {
+        "symbol": "NDSN",
+        "year": 2022,
+        "averagePrice": 228.5196865735,
+        "closingPrice": 220.3999938965
+    },
+    {
+        "symbol": "NDSN",
+        "year": 2021,
+        "averagePrice": 226.9832884168,
+        "closingPrice": 216.1304473877
+    },
+    {
+        "symbol": "NDSN",
+        "year": 2020,
+        "averagePrice": 204.8700070932,
+        "closingPrice": 234.5699768066
+    },
+    {
+        "symbol": "NDSN",
+        "year": 2019,
+        "averagePrice": 163.7245926876,
+        "closingPrice": 185.0277709961
+    },
+    {
+        "symbol": "NDSN",
+        "year": 2018,
+        "averagePrice": 126.8592375189,
+        "closingPrice": 135.6209411621
+    },
+    {
+        "symbol": "NFG",
+        "year": 2022,
+        "averagePrice": 55.6755661527,
+        "closingPrice": 50.8400001526
+    },
+    {
+        "symbol": "NFG",
+        "year": 2021,
+        "averagePrice": 62.2206606032,
+        "closingPrice": 61.5837898254
+    },
+    {
+        "symbol": "NFG",
+        "year": 2020,
+        "averagePrice": 43.9310409272,
+        "closingPrice": 50.7835769653
+    },
+    {
+        "symbol": "NFG",
+        "year": 2019,
+        "averagePrice": 37.4025983013,
+        "closingPrice": 36.188785553
+    },
+    {
+        "symbol": "NFG",
+        "year": 2018,
+        "averagePrice": 46.1558721018,
+        "closingPrice": 39.006149292
+    },
+    {
+        "symbol": "NUE",
+        "year": 2022,
+        "averagePrice": 150.6023091168,
+        "closingPrice": 155.9700012207
+    },
+    {
+        "symbol": "NUE",
+        "year": 2021,
+        "averagePrice": 120.244304657,
+        "closingPrice": 112.778137207
+    },
+    {
+        "symbol": "NUE",
+        "year": 2020,
+        "averagePrice": 75.4126911695,
+        "closingPrice": 94.6991424561
+    },
+    {
+        "symbol": "NUE",
+        "year": 2019,
+        "averagePrice": 42.5220445656,
+        "closingPrice": 43.713306427
+    },
+    {
+        "symbol": "NUE",
+        "year": 2018,
+        "averagePrice": 50.2191633551,
+        "closingPrice": 45.7755851746
+    },
+    {
+        "symbol": "NWN",
+        "year": 2022,
+        "averagePrice": 44.437962627,
+        "closingPrice": 37.4399986267
+    },
+    {
+        "symbol": "NWN",
+        "year": 2021,
+        "averagePrice": 46.9067538125,
+        "closingPrice": 42.524810791
+    },
+    {
+        "symbol": "NWN",
+        "year": 2020,
+        "averagePrice": 45.5126594148,
+        "closingPrice": 42.7199668884
+    },
+    {
+        "symbol": "NWN",
+        "year": 2019,
+        "averagePrice": 54.5704043263,
+        "closingPrice": 40.3160400391
+    },
+    {
+        "symbol": "NWN",
+        "year": 2018,
+        "averagePrice": 57.0878597883,
+        "closingPrice": 60.2035713196
+    },
+    {
+        "symbol": "PEP",
+        "year": 2022,
+        "averagePrice": 177.7024596925,
+        "closingPrice": 167.6999969482
+    },
+    {
+        "symbol": "PEP",
+        "year": 2021,
+        "averagePrice": 161.2296999371,
+        "closingPrice": 160.8600006104
+    },
+    {
+        "symbol": "PEP",
+        "year": 2020,
+        "averagePrice": 135.4396246496,
+        "closingPrice": 143.037109375
+    },
+    {
+        "symbol": "PEP",
+        "year": 2019,
+        "averagePrice": 122.1129395382,
+        "closingPrice": 127.0628356934
+    },
+    {
+        "symbol": "PEP",
+        "year": 2018,
+        "averagePrice": 107.9496726534,
+        "closingPrice": 125.4650802612
+    },
+    {
+        "symbol": "PG",
+        "year": 2022,
+        "averagePrice": 145.221202592,
+        "closingPrice": 145.4900054932
+    },
+    {
+        "symbol": "PG",
+        "year": 2021,
+        "averagePrice": 143.9193574209,
+        "closingPrice": 125.2306365967
+    },
+    {
+        "symbol": "PG",
+        "year": 2020,
+        "averagePrice": 128.935009869,
+        "closingPrice": 132.8416595459
+    },
+    {
+        "symbol": "PG",
+        "year": 2019,
+        "averagePrice": 113.1932208301,
+        "closingPrice": 128.3094177246
+    },
+    {
+        "symbol": "PG",
+        "year": 2018,
+        "averagePrice": 92.8869700033,
+        "closingPrice": 112.3225784302
+    },
+    {
+        "symbol": "PPG",
+        "year": 2022,
+        "averagePrice": 131.7668952182,
+        "closingPrice": 128.6499938965
+    },
+    {
+        "symbol": "PPG",
+        "year": 2021,
+        "averagePrice": 134.7172522166,
+        "closingPrice": 112.0289382935
+    },
+    {
+        "symbol": "PPG",
+        "year": 2020,
+        "averagePrice": 147.4729535836,
+        "closingPrice": 138.9064025879
+    },
+    {
+        "symbol": "PPG",
+        "year": 2019,
+        "averagePrice": 106.2793748407,
+        "closingPrice": 117.1942062378
+    },
+    {
+        "symbol": "PPG",
+        "year": 2018,
+        "averagePrice": 101.9281599493,
+        "closingPrice": 108.814704895
+    },
+    {
+        "symbol": "PH",
+        "year": 2022,
+        "averagePrice": 337.6874910636,
+        "closingPrice": 381.950012207
+    },
+    {
+        "symbol": "PH",
+        "year": 2021,
+        "averagePrice": 279.9019775996,
+        "closingPrice": 248.0933837891
+    },
+    {
+        "symbol": "PH",
+        "year": 2020,
+        "averagePrice": 275.5080531755,
+        "closingPrice": 282.316986084
+    },
+    {
+        "symbol": "PH",
+        "year": 2019,
+        "averagePrice": 173.7256233854,
+        "closingPrice": 197.8737792969
+    },
+    {
+        "symbol": "PH",
+        "year": 2018,
+        "averagePrice": 155.3137582726,
+        "closingPrice": 163.7431030273
+    },
+    {
+        "symbol": "SCL",
+        "year": 2022,
+        "averagePrice": 97.0029144895,
+        "closingPrice": 70.2399978638
+    },
+    {
+        "symbol": "SCL",
+        "year": 2021,
+        "averagePrice": 106.6866565583,
+        "closingPrice": 95.0458526611
+    },
+    {
+        "symbol": "SCL",
+        "year": 2020,
+        "averagePrice": 118.350260062,
+        "closingPrice": 111.7072067261
+    },
+    {
+        "symbol": "SCL",
+        "year": 2019,
+        "averagePrice": 95.1177275152,
+        "closingPrice": 104.2108764648
+    },
+    {
+        "symbol": "SCL",
+        "year": 2018,
+        "averagePrice": 83.626058115,
+        "closingPrice": 91.7593307495
+    },
+    {
+        "symbol": "SJW",
+        "year": 2022,
+        "averagePrice": 72.0429644186,
+        "closingPrice": 57.6699981689
+    },
+    {
+        "symbol": "SJW",
+        "year": 2021,
+        "averagePrice": 63.7525955382,
+        "closingPrice": 59.4612884521
+    },
+    {
+        "symbol": "SJW",
+        "year": 2020,
+        "averagePrice": 62.3762831973,
+        "closingPrice": 63.3009185791
+    },
+    {
+        "symbol": "SJW",
+        "year": 2019,
+        "averagePrice": 60.7046776426,
+        "closingPrice": 57.8341369629
+    },
+    {
+        "symbol": "SJW",
+        "year": 2018,
+        "averagePrice": 56.4731376314,
+        "closingPrice": 63.5345191956
+    },
+    {
+        "symbol": "SPGI",
+        "year": 2022,
+        "averagePrice": 358.4847356181,
+        "closingPrice": 356.4200134277
+    },
+    {
+        "symbol": "SPGI",
+        "year": 2021,
+        "averagePrice": 388.7778612167,
+        "closingPrice": 311.7088012695
+    },
+    {
+        "symbol": "SPGI",
+        "year": 2020,
+        "averagePrice": 364.5646917943,
+        "closingPrice": 420.6517944336
+    },
+    {
+        "symbol": "SPGI",
+        "year": 2019,
+        "averagePrice": 289.6239662322,
+        "closingPrice": 353.5738220215
+    },
+    {
+        "symbol": "SPGI",
+        "year": 2018,
+        "averagePrice": 203.1205590237,
+        "closingPrice": 236.0972137451
+    },
+    {
+        "symbol": "SWK",
+        "year": 2022,
+        "averagePrice": 82.7685778796,
+        "closingPrice": 78.4100036621
+    },
+    {
+        "symbol": "SWK",
+        "year": 2021,
+        "averagePrice": 134.1334332966,
+        "closingPrice": 76.0544052124
+    },
+    {
+        "symbol": "SWK",
+        "year": 2020,
+        "averagePrice": 177.2776965259,
+        "closingPrice": 164.0840148926
+    },
+    {
+        "symbol": "SWK",
+        "year": 2019,
+        "averagePrice": 131.6475175044,
+        "closingPrice": 152.3551483154
+    },
+    {
+        "symbol": "SWK",
+        "year": 2018,
+        "averagePrice": 120.5354712437,
+        "closingPrice": 127.8743438721
+    },
+    {
+        "symbol": "TGT",
+        "year": 2022,
+        "averagePrice": 146.5105585957,
+        "closingPrice": 107.1600036621
+    },
+    {
+        "symbol": "TGT",
+        "year": 2021,
+        "averagePrice": 194.8455988566,
+        "closingPrice": 147.6300811768
+    },
+    {
+        "symbol": "TGT",
+        "year": 2020,
+        "averagePrice": 196.0081743947,
+        "closingPrice": 218.1758117676
+    },
+    {
+        "symbol": "TGT",
+        "year": 2019,
+        "averagePrice": 112.3929040308,
+        "closingPrice": 149.7991485596
+    },
+    {
+        "symbol": "TGT",
+        "year": 2018,
+        "averagePrice": 74.3400358071,
+        "closingPrice": 100.5065841675
+    },
+    {
+        "symbol": "TNC",
+        "year": 2022,
+        "averagePrice": 70.5325604473,
+        "closingPrice": 74.4100036621
+    },
+    {
+        "symbol": "TNC",
+        "year": 2021,
+        "averagePrice": 69.9074765917,
+        "closingPrice": 57.4976463318
+    },
+    {
+        "symbol": "TNC",
+        "year": 2020,
+        "averagePrice": 72.0445072432,
+        "closingPrice": 73.5572433472
+    },
+    {
+        "symbol": "TNC",
+        "year": 2019,
+        "averagePrice": 65.4906578064,
+        "closingPrice": 56.7136306763
+    },
+    {
+        "symbol": "TNC",
+        "year": 2018,
+        "averagePrice": 58.9819474847,
+        "closingPrice": 65.5356826782
+    },
+    {
+        "symbol": "TR",
+        "year": 2022,
+        "averagePrice": 38.8201475637,
+        "closingPrice": 30.8600006104
+    },
+    {
+        "symbol": "TR",
+        "year": 2021,
+        "averagePrice": 32.4399996182,
+        "closingPrice": 32.4938163757
+    },
+    {
+        "symbol": "TR",
+        "year": 2020,
+        "averagePrice": 29.2442783872,
+        "closingPrice": 28.2181529999
+    },
+    {
+        "symbol": "TR",
+        "year": 2019,
+        "averagePrice": 30.0677921402,
+        "closingPrice": 27.8638515472
+    },
+    {
+        "symbol": "TR",
+        "year": 2018,
+        "averagePrice": 31.4637370547,
+        "closingPrice": 32.3316764832
+    },
+    {
+        "symbol": "SYY",
+        "year": 2022,
+        "averagePrice": 74.9934290244,
+        "closingPrice": 64.2799987793
+    },
+    {
+        "symbol": "SYY",
+        "year": 2021,
+        "averagePrice": 78.415142907,
+        "closingPrice": 70.2398834229
+    },
+    {
+        "symbol": "SYY",
+        "year": 2020,
+        "averagePrice": 71.6620803316,
+        "closingPrice": 77.3938446045
+    },
+    {
+        "symbol": "SYY",
+        "year": 2019,
+        "averagePrice": 59.5546087288,
+        "closingPrice": 59.088558197
+    },
+    {
+        "symbol": "SYY",
+        "year": 2018,
+        "averagePrice": 62.0843757234,
+        "closingPrice": 70.8264312744
+    },
+    {
+        "symbol": "UVV",
+        "year": 2022,
+        "averagePrice": 50.1040772822,
+        "closingPrice": 46.7999992371
+    },
+    {
+        "symbol": "UVV",
+        "year": 2021,
+        "averagePrice": 49.838433084,
+        "closingPrice": 43.8987083435
+    },
+    {
+        "symbol": "UVV",
+        "year": 2020,
+        "averagePrice": 44.8285673225,
+        "closingPrice": 43.5237693787
+    },
+    {
+        "symbol": "UVV",
+        "year": 2019,
+        "averagePrice": 38.6906236671,
+        "closingPrice": 35.3353004456
+    },
+    {
+        "symbol": "UVV",
+        "year": 2018,
+        "averagePrice": 44.9809560586,
+        "closingPrice": 42.8357048035
+    },
+    {
+        "symbol": "WMT",
+        "year": 2022,
+        "averagePrice": 148.0153173317,
+        "closingPrice": 159.0899963379
+    },
+    {
+        "symbol": "WMT",
+        "year": 2021,
+        "averagePrice": 135.1783304669,
+        "closingPrice": 130.5316619873
+    },
+    {
+        "symbol": "WMT",
+        "year": 2020,
+        "averagePrice": 136.8128462712,
+        "closingPrice": 132.8605499268
+    },
+    {
+        "symbol": "WMT",
+        "year": 2019,
+        "averagePrice": 116.5404583448,
+        "closingPrice": 134.1225891113
+    },
+    {
+        "symbol": "WMT",
+        "year": 2018,
+        "averagePrice": 95.6374115355,
+        "closingPrice": 110.8528671265
+    }
+]
